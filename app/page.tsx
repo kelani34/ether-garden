@@ -1,8 +1,10 @@
 import { ethers, network } from "hardhat";
+
 import Image from "next/image";
 
-export default function Home() {
+ethers.JsonRpcSigner
 
-  ethers.json
+export default function Home() {
+  ethers.provider.getBlock()
 	return <div className="">{/*  */}</div>;
 }
