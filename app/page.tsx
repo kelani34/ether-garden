@@ -3,6 +3,6 @@ import Image from "next/image";
 
 export default function Home() {
 
-  ethers.provider.J
+  ethers.
 	return <div className="">{/*  */}</div>;
 }
